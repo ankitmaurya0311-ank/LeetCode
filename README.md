@@ -6,6 +6,7 @@ My LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ My LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -22,5 +24,6 @@ My LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

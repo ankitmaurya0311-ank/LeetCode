@@ -7,6 +7,7 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ My LeetCode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |

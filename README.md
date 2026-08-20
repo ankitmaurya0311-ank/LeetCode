@@ -74,6 +74,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
@@ -95,6 +96,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
@@ -112,5 +114,6 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Ternary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

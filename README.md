@@ -122,6 +122,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -129,4 +130,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

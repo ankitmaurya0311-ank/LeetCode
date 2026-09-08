@@ -72,6 +72,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
@@ -116,4 +118,12 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

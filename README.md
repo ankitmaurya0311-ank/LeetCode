@@ -76,6 +76,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -126,6 +127,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -145,4 +147,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

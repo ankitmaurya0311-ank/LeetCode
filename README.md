@@ -69,6 +69,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
@@ -139,4 +141,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->

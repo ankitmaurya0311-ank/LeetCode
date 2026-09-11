@@ -129,6 +129,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -143,6 +144,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
@@ -153,4 +155,12 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

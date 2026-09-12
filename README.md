@@ -126,6 +126,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
@@ -144,6 +145,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -163,4 +165,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

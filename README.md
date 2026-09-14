@@ -126,6 +126,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## String
 |  |
 | ------- |
@@ -173,4 +175,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

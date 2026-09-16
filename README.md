@@ -80,6 +80,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0739-daily-temperatures](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -182,4 +184,5 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

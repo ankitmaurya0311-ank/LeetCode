@@ -185,4 +185,8 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0225-implement-stack-using-queues](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

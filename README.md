@@ -72,6 +72,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -108,6 +110,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
@@ -196,4 +199,24 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

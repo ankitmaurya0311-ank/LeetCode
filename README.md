@@ -205,6 +205,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |

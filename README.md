@@ -191,6 +191,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0577-employee-bonus) |

@@ -72,6 +72,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
@@ -221,10 +223,12 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -237,5 +241,6 @@ I am solving problems using common DSA patterns and problem-solving techniques:
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ankitmaurya0311-ank/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
